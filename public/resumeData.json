@@ -89,32 +89,43 @@
       {
         "title": "Automobile Servicing",
         "image": "automobile.png",
-        "url": "https://wizardly-allen-df165c.netlify.app/"
+        "live": "https://wizardly-allen-df165c.netlify.app/",
+        "Github": "https://github.com/habiba2012/mernStack-autoMobile-client",
+        "des":"Technology: React js, Node js, Express js,MongoDB"
       },
       {
         "title": "Sustainable fashion shops",
         "image": "conscious.png",
-        "url": "https://conscioussweater-demo.netlify.app/"
+        "live": "https://conscioussweater-demo.netlify.app/",
+        "Github": "https://github.com/habiba2012/react-django-googleMap-internshipProject",
+        "des":"Technology: React js, Python Django, Django Rest framework, PostgresSQL"
       },
       {
         "title": "BD Shop (MERNSTACK)",
         "image": "bd-shop.png",
-        "url": "https://bd-shop-f0fdd.web.app/"
+        "url": "https://bd-shop-f0fdd.web.app/",
+        "Github": "https://wizardly-allen-df165c.netlify.app/",
+        "des":"Technology: React js, Node js, Express js,MongoDB"
       },
       {
         "title": "Urban riders (React JS)",
         "image": "urban-riders.png",
-        "url": "https://urban-riders-b7511.web.app/"
+        "live": "https://urban-riders-b7511.web.app/",
+        "Github": "https://wizardly-allen-df165c.netlify.app/"
       },
       {
         "title": "Ecommerce (React JS)",
         "image": "emajhon.png",
-        "url": "https://quirky-bhaskara-078592.netlify.app/"
+        "live": "https://quirky-bhaskara-078592.netlify.app/",
+        "Github": "https://wizardly-allen-df165c.netlify.app/",
+        "des":"Technology: React js"
       },
       {
         "title": "Covid Tracker",
         "image": "covid-tracker.png",
-        "url": "https://habiba2012.github.io/covid_traker/"
+        "live": "https://habiba2012.github.io/covid_traker/",
+        "Github": "https://wizardly-allen-df165c.netlify.app/",
+        "des":"Technology: Html, CSS, JavaScript, Chart.js"
       }
     ]
   },

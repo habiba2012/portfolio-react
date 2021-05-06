@@ -28,7 +28,7 @@ const Header = ({ data }) => {
           Hide navigation
         </a>
 
-        <ul id="nav" className="nav">
+        <ul id="nav" className="nav" style={{ marginBottom: "0px" }}>
           <li className="current">
             <a className="smoothscroll" href="#home">
               Home
