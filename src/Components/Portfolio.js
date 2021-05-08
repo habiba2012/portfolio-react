@@ -16,8 +16,9 @@ const Portfolio = ({ data }) => {
                   <h2 className="card_title">{projects.title}</h2>
                   <p>{projects.category}</p>
                   <p className="card_text">{projects.des}</p>
-                  <div style={{ display: "inline", color: "white!important" }}>
-                    <button style={{ display: "inline", marginRight: "20px", color: "white" }}><a href={projects.live} target="_blank">Live</a></button><button><a href={projects.github} target="_blank">Github</a></button>
+                  <div style={{ display: "inline" }} >
+                    <button className="btn card_btn" style={{ display: "inline", marginRight: "20px", color: "white" }}><a href={projects.live} style={{ color: "white" }} target="_blank">Live</a></button><button className="btn card_btn"
+                    ><a href={projects.github} style={{ color: "white" }} target="_blank">Github</a></button>
                   </div>
                 </div>
               </div>

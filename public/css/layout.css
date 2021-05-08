@@ -375,7 +375,7 @@ ul#nav li.current a {
 
 .bars li em {
     font: 15px 'opensans-bold', sans-serif;
-    color: #313131;
+    color: skyblue;
     text-transform: uppercase;
     letter-spacing: 2px;
     font-weight: normal;
@@ -495,7 +495,7 @@ ul#nav li.current a {
 #portfolio {
     background: #ebeeee;
     padding-top: 90px;
-    padding-bottom: 60px;
+    padding-bottom: 80px;
 }
 
 #portfolio h1 {
@@ -526,6 +526,7 @@ ul#nav li.current a {
 }
 
 .portfolio-item .item-wrap a {
+ 
     display: block;
     cursor: pointer;
 }
@@ -603,6 +604,10 @@ ul#nav li.current a {
     opacity: 1;
     -moz-opacity: 1;
     filter: alpha(opacity=100);
+}
+
+.portfolio-item button {
+    color: white;
 }
 
 

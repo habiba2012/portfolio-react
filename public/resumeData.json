@@ -2,7 +2,7 @@
   "main": {
     "name": "Habiba Akhter",
     "occupation": "Frontend Developer",
-    "description": "I eat, sleep and breathe React",
+    "description": "|React.js Developer|JavaScript Developer",
     "image": "profilepic.jpg",
     "bio": "Hi there! I am Habiba!  As a Frontend developer I've worked with three startups to build their UI & scale their companies.",
     "contactmessage": "Get in touch with me!",
@@ -67,7 +67,7 @@
         "level": "100%"
       },
       {
-        "name": "Python",
+        "name": "Vue.js",
         "level": "85%"
       },
       {
@@ -77,6 +77,10 @@
       {
         "name": "JavaScript",
         "level": "99%"
+      },
+      {
+        "name": "Node.js",
+        "level": "90%"
       },
       {
         "name": "Web Development",
@@ -95,38 +99,20 @@
       },
       {
         "title": "Sustainable fashion shops",
-        "image": "conscious.png",
-        "live": "https://conscioussweater-demo.netlify.app/",
+        "image": "cs.png",
+        "live": "https://conscioussweater.com/",
         "Github": "https://github.com/habiba2012/react-django-googleMap-internshipProject",
         "des":"Technology: React js, Python Django, Django Rest framework, PostgresSQL"
       },
+     
       {
-        "title": "BD Shop (MERNSTACK)",
+        "title": "MernStack Website(React JS)",
         "image": "bd-shop.png",
-        "url": "https://bd-shop-f0fdd.web.app/",
-        "Github": "https://wizardly-allen-df165c.netlify.app/",
-        "des":"Technology: React js, Node js, Express js,MongoDB"
-      },
-      {
-        "title": "Urban riders (React JS)",
-        "image": "urban-riders.png",
-        "live": "https://urban-riders-b7511.web.app/",
-        "Github": "https://wizardly-allen-df165c.netlify.app/"
-      },
-      {
-        "title": "Ecommerce (React JS)",
-        "image": "emajhon.png",
-        "live": "https://quirky-bhaskara-078592.netlify.app/",
-        "Github": "https://wizardly-allen-df165c.netlify.app/",
-        "des":"Technology: React js"
-      },
-      {
-        "title": "Covid Tracker",
-        "image": "covid-tracker.png",
-        "live": "https://habiba2012.github.io/covid_traker/",
-        "Github": "https://wizardly-allen-df165c.netlify.app/",
-        "des":"Technology: Html, CSS, JavaScript, Chart.js"
+        "live": "https://bd-shop-f0fdd.web.app/",
+        "Github": "https://github.com/habiba2012/MernStack-ecommerce-client",
+        "des":"Technology: Technology: React js, Node js, Express js,MongoDB"
       }
+     
     ]
   },
   "blog": {
@@ -152,11 +138,11 @@
     "testimonials": [
       {
         "text": "Habiba is absolutely excellent, her depth of knowledge & confident helps us to grow our company... I would definitely recommend",
-        "user": "Jorge Fouto"
+        "user": "Veronica"
       },
       {
         "text": "Working with Habiba has been AWESOME.",
-        "user": "Adam Curtis"
+        "user": "Uffe Justin"
       }
     ]
   }
